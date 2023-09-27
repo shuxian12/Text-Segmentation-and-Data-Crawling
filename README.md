@@ -1,6 +1,8 @@
 # Text Segmentation and Data Crawling
 
-<!-- https://github.com/othneildrew/Best-README-Template/blob/8a2ace9aa39b85041dcd9cf5efe4af2f8bb21825/BLANK_README.md -->
+[![hackmd-github-sync-badge](https://hackmd.io/Uof6g1mXRPmCQqsl1JsW8w/badge)](https://hackmd.io/Uof6g1mXRPmCQqsl1JsW8w)
+
+## Getting Started
 
 ### Prerequisites
 
